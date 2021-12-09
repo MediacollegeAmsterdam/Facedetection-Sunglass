@@ -1,2 +1,2 @@
 # Facedetection-Sunglass
-tennsorflow facedetection sunglass
+tensorflow facedetection sunglass
